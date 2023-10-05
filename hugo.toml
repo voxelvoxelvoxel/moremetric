@@ -1,0 +1,4 @@
+baseURL = 'https://voxelvoxelvoxel.github.io/moremetric/'
+languageCode = 'en-us'
+title = 'moremetric'
+theme = 'PaperMod'
